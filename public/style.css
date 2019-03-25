@@ -1,3 +1,18 @@
 body{
-    background-color:red;
+    font-family:  sans-serif;   
+}
+header{
+    text-align:center;
+    position: relative;
+    top:200px;
+}
+form{
+    position:relative;
+    top:250px
+}
+.align{
+    display:block;
+    text-align:center;
+    width:400px;
+    margin:5px auto;
 }
